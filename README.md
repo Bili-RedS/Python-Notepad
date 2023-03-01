@@ -12,4 +12,4 @@
 #
 ##使用说明:
 ### 首次打开界面：
-![bmp](main.bmp "bmp")
+![bmp](./main.bmp "bmp")
